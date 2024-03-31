@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Lance Cerenio</h1>
-<h3 align="center">I'm a Computer Science student who has a passion for Coding and Technology.</h3>
+<h3 align="left">I'm a Computer Science student who has a passion for Coding and Technology.</h3>
 
 - 🌱 I’m currently learning **HTML,CSS,JavaScript**
 
