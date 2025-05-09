@@ -3,7 +3,7 @@
 
 <p align="center">
   🌱 <strong>Interested in Linux</strong> | 
-  ⚡ <strong>Fun fact:</strong> I rice Linux when bored
+  ⚡ <strong>Fun fact:</strong> University Library Enjoyer
 </p>
 
 <h3 align="center">My Setup</h3>
